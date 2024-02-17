@@ -1,2 +1,1 @@
-# subscription
-ublacklist subscription
+*://*.reddit.com/r/AIGenArt/*
