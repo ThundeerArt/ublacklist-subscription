@@ -1,1 +1,9 @@
-*://*.reddit.com/r/AIGenArt/*
+*://*.creativefabrica.com/*
+*://*.freepik.com/*
+*://*.pixabay.com/*
+*://*.vecteezy.com/*
+*://*.123rf.com/*
+*://*.wall.alphacoders.com/*
+*://*.pinterest.com/*
+*://*.deviantart.com/*
+*://*.stock.adobe.com/*
