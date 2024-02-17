@@ -1,1 +1,1 @@
-*://*.reddit.com/r/AIGenArt/*
+huh
