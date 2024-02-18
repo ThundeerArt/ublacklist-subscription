@@ -128,8 +128,8 @@
 *://*.makersplace.com/*
 *://*.stablecog.com/*
 *://www.freepik.com/premium-ai-image/*
-*://lumenor.ai/*
-*://aiartshop.com/*
+*://*.lumenor.ai/*
+*://*.aiartshop.com/*
 *://*.artsi.ai/*
 *://*.cheshirecat.ai/*
 *://*.prompt-finder.com/*
@@ -143,6 +143,8 @@
 *://*.tensor.art/*
 *://*.aitubo.ai/*
 *://*.storybird.ai/*
+*://*.ptsearch.info/*
+*://*.promptlibrary.org/*
 *://*.reddit.com/r/nightcafe/*
 *://*.reddit.com/r/AIart/*
 *://*.reddit.com/r/StableDiffusion/*
@@ -153,4 +155,3 @@
 *://*.reddit.com/r/deepdream/*
 *://*.reddit.com/r/dalle2/*
 *://*.reddit.com/r/AIGenArt/*
-// test info
